@@ -7,9 +7,9 @@ An AR based video player for Piano tutorials built in Unity.
 
 ![Demo](/Multimedia/Demo.gif)
 
-## Background
+### Use AR to project your favorite digitally-recorded piano video song from Youtube over your piano to learn by following along.
 
-Have you ever tried learning the piano? Maybe you just want to learn how to play that one specific song from youtube? For both of these, this is the app that will make your life much easier. All you need to do is to play that youtube video in this app and that video will be projected using your phone's camera. Just place the projected piano onto your piano and you're set to go!
+Have you ever tried learning the piano but never had the time to do so? Do you want to play your favorite songs right away without any prior experience? This is the app for you. We required something like this even for our personal use. It helps an immense lot in building muscle memory to play the piano for any song you can find on Youtube directly.
 
 ## Features
 
