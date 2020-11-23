@@ -22,14 +22,11 @@ Have you ever tried learning the piano but never had the time to do so? Do you w
 ## How to Use
 
 1. Get our AR Marker from the app using "Get our Marker" button
-2. Print the Marker or open it on a device
-3. Place marker where you want the video to be projected
-4. Copy Youtube video's URL
-5. Paste video URL into app
-6. Click "Launch AR Cam"
-7. Aim camera at marker
+2. Print the Marker or open it on a device and place it where you want the video to be projected
+3. Copy Youtube video's URL and paste video URL into app
+4. Click "Launch AR Cam" and position the camera over your marker
 8. Adjust the video using finger gestures and visibility / ratio options
-9. Follow along the video!
+9. Play along!
 
 ## Screenshots
 
